@@ -1,0 +1,1 @@
+If you would like to train your own version of the food vs. dog AI, then populate the dog and food folders with the images which fit each classification and run the train.py program to generate a new model.
